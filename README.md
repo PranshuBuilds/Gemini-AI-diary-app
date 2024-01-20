@@ -11,8 +11,9 @@ try the app from given app link below
 ``system prompt: write in minimum words about ``
 
 
-![ss2](https://github.com/pranshusample765/Gemini-AI-diary-app/assets/58212835/ee5ad281-4fc3-4281-8b51-5ffa8c6520aa) ![ss3](https://github.com/pranshusample765/Gemini-AI-diary-app/assets/58212835/996c0f45-cc11-4905-a868-ae99617449be) ![ss1](https://github.com/pranshusample765/Gemini-AI-diary-app/assets/58212835/3b563c5a-f3b0-4477-9b1a-23f2786bcf46)
-***
+![ss2](https://github.com/pranshusample765/Gemini-AI-diary-app/assets/58212835/ee5ad281-4fc3-4281-8b51-5ffa8c6520aa) ![ss3](https://github.com/pranshusample765/Gemini-AI-diary-app/assets/58212835/996c0f45-cc11-4905-a868-ae99617449be)  ![ss5](https://github.com/pranshusample765/Gemini-AI-diary-app/assets/58212835/66c7a9f3-c037-49c1-9db1-946e98f7cc54)
+ ![ss4](https://github.com/pranshusample765/Gemini-AI-diary-app/assets/58212835/b7feb341-80d3-414b-8ae7-9644826e6d9d)
+
 ## check the official Gemini AI documentation - [Gemini AI](https://ai.google.dev/tutorials/android_quickstart#multi-turn-conversations-chat)
 
 I used `java` code from documentations , adviced to check that out for more features like : **chat** | **history** | **image recognition** |
