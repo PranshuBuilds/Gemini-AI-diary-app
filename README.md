@@ -46,9 +46,12 @@ code is in the ``master`` branch , feel free to use __clone and contribute__ , l
 Don't forget to leave a star on our repository! :star:
 
 ***
+
 ## Screenshots 
 
-![ss2](https://github.com/pranshusingh/Gemini-AI-diary-app/assets/42331128/cc094df0-ebe4-4462-8299-47611787cf08)  ![ss1](https://github.com/pranshusingh/Gemini-AI-diary-app/assets/42331128/43ab6cb8-2b1b-4722-8e71-ba424f5dc65b)
+![ss2](https://github.com/pranshusample765/Gemini-AI-diary-app/assets/58212835/ee5ad281-4fc3-4281-8b51-5ffa8c6520aa) ![ss3](https://github.com/pranshusample765/Gemini-AI-diary-app/assets/58212835/996c0f45-cc11-4905-a868-ae99617449be) ![ss1](https://github.com/pranshusample765/Gemini-AI-diary-app/assets/58212835/3b563c5a-f3b0-4477-9b1a-23f2786bcf46)
+
+
 
 | Tab 1 | Tab2 |
 
