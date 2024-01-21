@@ -8,11 +8,13 @@ this just gives the implementation of __text to text__ feature and get responses
 try the app from given app link below
 > [App](https://drive.google.com/file/d/1VRBzX4uQj4vxgTZeTSuc1ZZxUvoFDBdm/view?usp=sharing) 
 
-``system prompt: write in minimum words about ``
+``system prompt: answer concisely about ``
 
+![ss1](https://github.com/pranshusample765/Gemini-AI-diary-app/assets/58212835/a271be18-dcfb-43b0-9c0a-07d5cabb9035)
+![ss2](https://github.com/pranshusample765/Gemini-AI-diary-app/assets/58212835/8cd3b078-d17e-4c72-9724-fcdfffe56340)
+![ss3](https://github.com/pranshusample765/Gemini-AI-diary-app/assets/58212835/3867021c-bb44-485a-894c-cc031665f63b)
+![ss4](https://github.com/pranshusample765/Gemini-AI-diary-app/assets/58212835/6592681b-1655-4e5c-8a48-0104b4dd0a1d)
 
-![ss2](https://github.com/pranshusample765/Gemini-AI-diary-app/assets/58212835/ee5ad281-4fc3-4281-8b51-5ffa8c6520aa) ![ss3](https://github.com/pranshusample765/Gemini-AI-diary-app/assets/58212835/996c0f45-cc11-4905-a868-ae99617449be)  ![ss5](https://github.com/pranshusample765/Gemini-AI-diary-app/assets/58212835/66c7a9f3-c037-49c1-9db1-946e98f7cc54)
- ![ss4](https://github.com/pranshusample765/Gemini-AI-diary-app/assets/58212835/b7feb341-80d3-414b-8ae7-9644826e6d9d)
 
 ## check the official Gemini AI documentation - [Gemini AI](https://ai.google.dev/tutorials/android_quickstart#multi-turn-conversations-chat)
 
@@ -53,10 +55,10 @@ Don't forget to leave a star on our repository! :star:
 
 ## TODO list
 
-- [ ]  Markdown support
-- [ ]  Add save botton
+- [x]  Markdown support
+- [x]  Add save botton
+- [x]  Speech-to-text
 - [ ]  Image analysis
-- [ ]  Speech-to-text
 - [ ]  Text-to-speech
 - [ ]  Chat system
   
